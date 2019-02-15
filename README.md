@@ -1,25 +1,20 @@
-http://taxigrouptuyenlaixe.com : taxi group
-
-http://taxigrouptuyenlaixe.com/gioi-thieu-chung : giới thiệu chung
-
-http://taxigrouptuyenlaixe.com/cam-ket-va-su-menh : cam kết xứ mệnh
-
-http://taxigrouptuyenlaixe.com/danh-hieu-va-thanh-tich : danh hiệu thành tích
-
-http://taxigrouptuyenlaixe.com/the-manh-cua-taxi-group : thế mạnh
-
-http://taxigrouptuyenlaixe.com/taxi-thuong-quyen : taxi thương quyền
-
-http://taxigrouptuyenlaixe.com/bang-gia-cuoc : bảng giá cước
-
-http://taxigrouptuyenlaixe.com/sanh-chung-taxi-group : sảnh chung taxi group
-
-http://taxigrouptuyenlaixe.com/sanh-do : sảnh đỗ
-
-http://taxigrouptuyenlaixe.com/gioi-thieu : giới thiệu
-
-http://taxigrouptuyenlaixe.com/tuyen-lai-xe-taxi : tuyển lái xe taxi
-
-http://taxigrouptuyenlaixe.com/diem-giao-xe : điểm giao xe
-
-http://taxigrouptuyenlaixe.com/lien-he : liên hệ
+https://stthay.net/ : trang chủ
+https://stthay.net/chu-de/ca-dao-tuc-ngu.html : ca dao tục ngữ
+https://stthay.net/chu-de/tinh-yeu.html : tình yêu
+https://stthay.net/chu-de/cach.html : cách
+https://stthay.net/chu-de/dau-hieu.html : dấu hiệu
+https://stthay.net/chu-de/nhung.html : những
+https://stthay.net/chu-de/tam-trang.html : tâm trạng
+https://stthay.net/chu-de/stt-tinh.html : stt thất tình
+https://stthay.net/chu-de/stt-ve-dem.html : stt về đêm
+https://stthay.net/chu-de/stt-co-don.html : stt cô đơn
+https://stthay.net/chu-de/stt-ve-mua.html : stt về mưa
+https://stthay.net/chu-de/chan-ly-cuoc-song.html : stt chân lý cuộc sống
+https://stthay.net/chu-de/tin-tuc-mang.html : tin tức mạng
+https://stthay.net/chu-de/sinh-nhat.html : sinh nhật
+https://stthay.net/chu-de/gia-dinh.html gia đình
+https://stthay.net/chu-de/cha-me.html : cha mẹ
+https://stthay.net/chu-de/con-yeu.html : con yêu
+https://stthay.net/chu-de/hoc-tap.html : học tập
+https://stthay.net/chu-de/nguoi-noi-tieng.html : người nổi tiếng
+https://stthay.net/chu-de/tinh-ban.html : tình bạn
